@@ -1,3 +1,10 @@
+<?php
+
+
+
+
+?>
+
 <!DOCTYPE html>
 
 <html>
@@ -19,7 +26,7 @@
 
 
     <div class="banner">
-    <img src="static/img/banner-2.png" >   
+    <img src="static/img/banner.png" >   
 
     </div>
 
